@@ -1,0 +1,3 @@
+include ':m3u8lib'
+include ':app'
+rootProject.name = "M3U8libSample"
